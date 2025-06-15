@@ -1,4 +1,4 @@
-# Smart Wallet Expo Example
+EnyiflexWire # Smart Wallet Expo Example
 This repository contains an example project showcasing the usage of a smart wallet application built with Expo. 
 
 ## Features
